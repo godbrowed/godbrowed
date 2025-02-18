@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a passionate backend developer focusing on **Golang** 
 ---
 
 ## 🛠 Tech Stack  
-- **Languages:** Golang, JavaScript  
+- **Languages:** Golang, Python, C  
 - **Backend:** SQL, MongoDB, Echo, RestAPI  
 - **Tools:** Git, Goland, VS Code, Linux  
 
