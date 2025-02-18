@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Mykhailo Timachov! 👋
 
-<!--
-**godbrowed/godbrowed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Golang Backend Developer | 13 y.o. | Vinnytsia, Ukraine  
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a passionate backend developer focusing on **Golang** and backend technologies. Despite my young age, I’m dedicated to learning, improving, and building efficient systems.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me  
+- 💻 I specialize in **Golang** and backend development.  
+- 🎓 Currently studying in **9th grade** while coding in my free time.  
+- 🏃‍♂️ Interested in self-improvement—learning programming and staying active.  
+- 📖 Working on structuring my time better and avoiding distractions.  
+
+---
+
+## 🛠 Tech Stack  
+- **Languages:** Golang, JavaScript  
+- **Backend:** SQL, MongoDB, Echo, RestAPI  
+- **Tools:** Git, Goland, VS Code, Linux  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)  
+
+---
+
+## 📫 Connect with Me  
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=linkedin)](t.me/thenillow)  
