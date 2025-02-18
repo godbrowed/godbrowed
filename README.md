@@ -27,4 +27,4 @@ Welcome to my GitHub! I'm a passionate backend developer focusing on **Golang** 
 ---
 
 ## 📫 Connect with Me  
-[![Telegram](https://img.shields.io/badge/Twitter-blue?logo=linkedin)](t.me/thenillow)  
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=linkedin)](t.me/thenillow)  
