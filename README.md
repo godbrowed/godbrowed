@@ -22,9 +22,9 @@ Welcome to my GitHub! I'm a passionate backend developer focusing on **Golang** 
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=godbrowed&show_icons=true&theme=dark)  
 
 ---
 
 ## 📫 Connect with Me  
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=linkedin)](t.me/thenillow)  
+[![Telegram](https://img.shields.io/badge/Twitter-blue?logo=linkedin)](t.me/thenillow)  
